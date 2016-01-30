@@ -13,6 +13,18 @@
                     <key>url</key>
                     <string>https://raw.githubusercontent.com/NiubilityCoder/ios_deploy/master/StemcellsTracking-V1.0.0-Build-1-20160128.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/NiubilityCoder/ios_deploy/master/app_icon_120.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/NiubilityCoder/ios_deploy/master/app_icon_180.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
@@ -21,9 +33,9 @@
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
-                <string>StemcellsTracking</string>
+                <string>software</string>
                 <key>title</key>
-                <string>StemcellsTracking.ipa</string>
+                <string>StemcellsTracking</string>
             </dict>
         </dict>
     </array>
