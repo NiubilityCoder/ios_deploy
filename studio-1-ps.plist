@@ -17,25 +17,25 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/NiubilityCoder/ios_deploy/master/app_icon_120.png</string>
+                    <string>https://raw.githubusercontent.com/NiubilityCoder/ios_deploy/master/studio-logo-120.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/NiubilityCoder/ios_deploy/master/app_icon_180.png</string>
+                    <string>https://raw.githubusercontent.com/NiubilityCoder/ios_deploy/master/studio-logo-180.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.geniuswise.mrstudio</string>
+                <string>com.xunlong.myshowme</string>
                 <key>bundle-version</key>
-                <string>1.0.5</string>
+                <string>1.1.10</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>MR</string>
+                <string>直播间Studio</string>
             </dict>
         </dict>
     </array>
